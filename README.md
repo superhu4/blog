@@ -1,5 +1,4 @@
-# Steren's blog
+# Test
 
 My personal blog. Not much content
 
-https://blog.steren.fr
